@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">TrabalhoJogos</string>
+    <string name="app_name">RocketGames</string>
     <string name="nome_jogo">Nome do Jogo</string>
     <string name="categoria_jogo">Categoria</string>
     <string name="salvar">Salvar</string>

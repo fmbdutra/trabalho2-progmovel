@@ -1,4 +1,4 @@
-package com.example.trabalhoJogos;
+package com.example.RocketGames;
 
 import android.app.Activity;
 import android.view.View;

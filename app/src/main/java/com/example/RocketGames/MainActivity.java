@@ -1,4 +1,4 @@
-package com.example.trabalhoJogos;
+package com.example.RocketGames;
 
 import androidx.appcompat.app.AppCompatActivity;
 
